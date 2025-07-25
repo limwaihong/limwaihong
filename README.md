@@ -1,4 +1,4 @@
-👋 Hi, my name is @limwaihong. I am a software product designer currently trying to build my first app. Previously at OnePlus, Nothing Tech.
+👋 Hi, my name is Kevin. I am a software product designer currently trying to build my first app. Previously at OnePlus, Nothing Tech.
 
 I love building my own things.
 
