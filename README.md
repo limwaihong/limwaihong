@@ -1,6 +1,6 @@
-👋 Hi, my name is @limwaihong. I am a product designer currently crafting human centered digital experience at Nothing. Previously at OnePlus. Born in Malaysia, living in Shenzhen, China.
+👋 Hi, my name is @limwaihong. I am a software product designer currently trying to build my first app. Previously at OnePlus, Nothing Tech.
 
-I love building my own things. let's collab!
+I love building my own things.
 
 <!---
 limwaihong/limwaihong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
